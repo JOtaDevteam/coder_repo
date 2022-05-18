@@ -8,6 +8,6 @@ result_ecua = sumar(4, 2)
 print (result_rest)
 
 print("jimmy ornay")
-print("cambio")
+print("cambio en rama secundaria")
 
-print("hola")
+print("entedido")
